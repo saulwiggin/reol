@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/ropensci/reol.png)](https://travis-ci.org/ropensci/reol)
 
-## Reol - Interface to the Encyclopedia for Life
+## Reol - Interface to the Encyclopaedia for Life
 
 ## Installing the package
 
